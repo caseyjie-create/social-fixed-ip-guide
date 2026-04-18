@@ -1,0 +1,28 @@
+# 不要上传实际配置文件到公开仓库
+*.yaml
+*.yml
+!example.yaml
+!example.yml
+
+# 不要上传个人脚本
+my-script.js
+personal-*.js
+
+# 密钥和密码
+secrets.txt
+credentials.txt
+*.pem
+*.key
+
+# 订阅链接备份
+subscription.txt
+subscribe-url.txt
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 备份文件
+*.bak
+*.backup
+*.old
