@@ -63,7 +63,7 @@
 
 **我用的是 WgetCloud 全球加速**,Trojan 协议,稳定性好,美国节点对 AI 和社媒解锁支持不错。
 
-👉 **[注册 WgetCloud(含优惠)](https://invite.wgetcloud.ltd/auth/register?code=4YxbYf)**
+👉 **[注册 WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=4YxbYf)**
 
 *通过此链接注册可享新用户优惠*
 
@@ -73,7 +73,7 @@
 
 **我用的是 Racknerd 的特价 KVM VPS**,年付 $10-15,纽约/洛杉矶机房任选。配置 1GB 内存就够用,它只负责做中转,不吃资源。
 
-👉 **[注册 Racknerd(含返利)](https://my.racknerd.com/aff.php?aff=19430)**
+👉 **[注册 Racknerd](https://my.racknerd.com/aff.php?aff=19430)**
 
 *通过此链接注册,到特价页面(Black Friday Specials 或 Special Offers)即可选购 $10+ 年付套餐*
 
@@ -87,7 +87,7 @@
 
 **我用的是 Cliproxy 的静态长效 ISP 住宅 IP**,$3.8 起/月,IP 在有效期内固定不变,是真实住宅网络的 IP,质量纯净。
 
-👉 **[Cliproxy 官网(含邀请返利)](https://share.cliproxy.com/share/l1bvl4pxt)**
+👉 **[Cliproxy 官网](https://share.cliproxy.com/share/l1bvl4pxt)**
 
 *通过此链接注册可享邀请返利*
 
@@ -233,7 +233,7 @@
 
 #### 购买流程
 
-1. 访问 **[Racknerd 官网(含返利)](https://my.racknerd.com/aff.php?aff=19430)**,进入 KVM VPS 页面
+1. 访问 **[Racknerd 官网](https://my.racknerd.com/aff.php?aff=19430)**,进入 KVM VPS 页面
 2. 选择 KVM VPS 特价套餐(Special Offers 或 Black Friday Specials 页面)
 3. 机房选择美国任一机房
 4. 系统选择 **Ubuntu 22.04 LTS 64-bit**(后续教程基于此系统)
