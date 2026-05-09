@@ -9,7 +9,12 @@
 ![Clash](https://img.shields.io/badge/Clash%20Verge%20Rev-supported-green.svg)
 
 ---
+## 💻 选择你的系统
 
+- 🍎 **macOS 用户** → 继续阅读本文档(以下所有步骤基于 macOS)
+- 🪟 **Windows 用户** → 跳转到 [Windows 专版指南](./docs/windows.md)
+- 🐧 **Linux 用户** → 流程类似 macOS,Tun 模式和命令略有差异
+---
 ## 😱 你遇到过这些吗?
 
 - 🔒 Twitter / Instagram 账号刚注册就要手机验证,最后直接被封
